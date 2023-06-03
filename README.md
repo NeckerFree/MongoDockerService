@@ -32,7 +32,7 @@ Move into project directory
 2. Execute the command `dotnet run`
 3. In the browser open the url: `http://localhost:5036/swagger/index.html`
 4. Now you can see the swagger document and execute CRUD operations
-
+![MongoDockerService](https://github.com/NeckerFree/MongoDockerService/assets/8497300/7e4bc1d3-b713-461e-940f-8ab350da7ba7)
 ## Author:
 
 👤 **Elio Cortés**
